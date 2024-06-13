@@ -195,7 +195,7 @@ function App() {
 
       <div className="slider-content">
         <div className="slider-content-active">
-          <h1>Iro Jacket</h1>
+          <h1>Iron Jacket</h1>
         </div>
         <div className="slider-content-next">
           <h1>Hoodieee</h1>
